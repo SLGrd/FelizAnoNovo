@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d64be931-ec01-4d4e-9506-5d39e4a3b2d4": {
+      "ProjectGuid": "d64be931-ec01-4d4e-9506-5d39e4a3b2d4",
+      "DisplayName": "Greetings",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
